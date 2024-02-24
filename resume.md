@@ -1,7 +1,6 @@
-My Resume
+# Steven Yee's Resume
 
-Name: Steven Yee
-
-Education: Computer Science and Math at Northeastern Univeristy
-
-Graduation Year: 2027
+## Education
+**Northeastern Univeristy**, Khoury College of Computer Sciences
+*Candidate: Bachelor of Science in Computer Science and Mathematics* 
+Boston, MA -- Sept. 2023 - May 2027
